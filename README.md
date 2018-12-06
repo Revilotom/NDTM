@@ -3,6 +3,7 @@ A non-deterministic turing machine written in Haskell.
 
 # Build
 
+stack init
 stack build
 
 # Usage
