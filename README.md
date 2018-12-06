@@ -9,7 +9,7 @@ stack build
 
 # Usage
 
-Takes a turing machine descriptor and input files as command line arguments.
+Takes turing machine descriptor and input files as command line arguments.
 ```
 stack exec TuringMachineEmulator <descriptor filename> <input filename>
 stack exec TuringMachineEmulator machines/ndPalindrome inputs/p 
