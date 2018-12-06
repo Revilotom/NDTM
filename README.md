@@ -11,7 +11,7 @@ stack build
 Takes a turing machine descriptor and input files as command line arguments.
 
 stack exec TuringMachineEmulator <descriptor filename> <input filename>
-stack exec TuringMachineEmulator ../machines/ndPalindrome ../inputs/p 
+stack exec TuringMachineEmulator machines/ndPalindrome inputs/p 
 
 
 # To run tests
